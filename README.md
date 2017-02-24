@@ -38,6 +38,11 @@ This code is provided on an "AS-IS” basis without warranty of any kind, either
 	$ npm test
 	```
 
+* For Windows
+```
+$ ./run.cmd
+```
+
 [Sauce Labs Dashboard](https://saucelabs.com/beta/dashboard/)
 
 ### Advice/Troubleshooting
@@ -58,4 +63,3 @@ This code is provided on an "AS-IS” basis without warranty of any kind, either
 
 ##### [Stack Overflow](http://stackoverflow.com/)
 * A great resource to search for issues not explicitly covered by documentation.
-
